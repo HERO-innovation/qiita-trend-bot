@@ -2,7 +2,7 @@
 
 ![notification](https://github.com/ysmtegsr/qiita-trend-bot/workflows/notification/badge.svg)
 
-Forked from [ysmtegsr](https://github.com/ysmtegsr/qiita-trend-bot)!
+Forked from [ysmtegsr/qiita-trend-bot](https://github.com/ysmtegsr/qiita-trend-bot) !
 ## Overview
 
 This project is a bot that notifies qiita trend articles to any slack channel.
