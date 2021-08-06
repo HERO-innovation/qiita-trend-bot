@@ -2,6 +2,7 @@
 
 ![notification](https://github.com/ysmtegsr/qiita-trend-bot/workflows/notification/badge.svg)
 
+Forked from [ysmtegsr](https://github.com/ysmtegsr/qiita-trend-bot)!
 ## Overview
 
 This project is a bot that notifies qiita trend articles to any slack channel.
@@ -19,6 +20,17 @@ The mechanism is to scrape the website and get the DOM. From there, format the d
 ## Demonstration
 
 ![demo](https://user-images.githubusercontent.com/38056766/97309932-fab88800-18a5-11eb-9bca-a0ccaa7117a5.png)
+
+## Development
+
+```sh
+$ git clone git@github.com:HERO-innovation/qiita-trend-bot.git && cd qiita-trend-bot
+
+$ cp .env.example .env
+
+# Test!
+$ node ./src/index.js
+```
 
 ## License
 
